@@ -1,5 +1,5 @@
-## Welcome to Git!
+## Hello Everyone, Welcome to Git!
 
-This is coming from dev-mohamed.
+Yo, this from dev-jsm branch man!
 
 I'm adding this from 'feature-branch'
